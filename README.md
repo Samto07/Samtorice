@@ -1,0 +1,2 @@
+# Samtorice
+arch hyprland rice
